@@ -1,0 +1,7 @@
+﻿  Flight.cpp
+  Passenger.cpp
+  Project.cpp
+C:\Users\HaouetYa\Downloads\Project\Project\Project.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\HaouetYa\Downloads\Project\Project\Project.cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Generating Code...
+  Project.vcxproj -> C:\Users\HaouetYa\Downloads\Project\x64\Debug\Project.exe
